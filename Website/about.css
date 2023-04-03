@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+header{
+    background-color: burlywood;
+    padding: 10px;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: black;
+}
+
+.topnav a{
+    float: left;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 25px 100px;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    background-color: rgba(255, 255, 255, 0.842);
+    color: black;
+}
+
+.footer{
+    background-color: burlywood;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
